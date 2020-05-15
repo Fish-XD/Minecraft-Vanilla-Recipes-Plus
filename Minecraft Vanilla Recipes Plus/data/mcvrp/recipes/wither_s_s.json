@@ -1,0 +1,26 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#@#",
+        "&^&",
+        "#@#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:coal"
+        },
+        "@": {
+            "item": "minecraft:blaze_rod"
+        },
+        "^": {
+            "item": "minecraft:black_dye"
+        },
+        "&": {
+            "item": "minecraft:bone"
+        }
+    },
+    "result": {
+        "item": "minecraft:wither_skeleton_skull",
+        "count": 1
+    }
+}

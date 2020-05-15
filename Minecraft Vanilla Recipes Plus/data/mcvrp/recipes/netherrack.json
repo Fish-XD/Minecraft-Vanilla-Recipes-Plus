@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": [
+        {
+            "item": "minecraft:stone"
+        }
+    ],
+    "result": "minecraft:netherrack",
+    "cookingtime": 100,
+    "experience": 0.1
+}
