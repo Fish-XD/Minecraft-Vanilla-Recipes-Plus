@@ -1,3 +1,3 @@
 # Minecraft-Vanilla-Recipes-Plus
-这仅是一个Minecraft的更多配方数据包
-This is just a more recipe datapack for Minecraft
+更多的合成配方 20w20a
+More recipes for vanilla Minecraft 20w20a
