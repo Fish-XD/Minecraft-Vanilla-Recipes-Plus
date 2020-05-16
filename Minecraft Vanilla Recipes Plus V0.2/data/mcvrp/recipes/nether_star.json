@@ -1,0 +1,36 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+        "111",
+        "222",
+        "324"
+	],
+	"key": {
+        "1": {
+			"item": "minecraft:wither_skeleton_skull"
+		},
+		"2": {
+			"item": "minecraft:soul_sand"
+		},
+		"3": [
+			{
+				"item": "minecraft:diamond_sword"
+			},
+			{
+				"item": "minecraft:enchanted_golden_apple"
+			}
+		],
+		"4": [
+			{
+				"item": "minecraft:diamond_sword"
+			},
+			{
+				"item": "minecraft:enchanted_golden_apple"
+			}
+		]
+    },
+	"result": {
+		"item": "minecraft:nether_star",
+		"count": 1
+	}
+}

@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smoking",
+    "ingredient":{
+        "item": "minecraft:netherrack"
+    },
+    "result": "minecraft:nether_wart",
+    "cookingtime": 150,
+    "experience": 0.3
+}

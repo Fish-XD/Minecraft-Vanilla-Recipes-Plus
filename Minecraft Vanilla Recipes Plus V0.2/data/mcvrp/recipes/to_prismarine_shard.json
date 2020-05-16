@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient":{
+        "item": "minecraft:quartz"
+    },
+    "result": "minecraft:prismarine_shard",
+    "cookingtime": 100,
+    "experience": 0.3
+}

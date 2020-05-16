@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"###",
+		"#@#",
+		"###"
+	],
+	"key": {
+		"#": {
+			"item": "minecraft:oak_leaves"
+		},
+		"@": {
+			"item": "minecraft:bucket"
+		}
+	},
+	"result": {
+		"item": "minecraft:water_bucket",
+		"count": 1
+	}
+}

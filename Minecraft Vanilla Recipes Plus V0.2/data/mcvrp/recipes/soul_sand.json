@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#@#",
+        "@#@",
+        "#@#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ghast_tear"
+        },
+        "@": {
+            "item": "minecraft:sand"
+        }
+    },
+    "result": {
+        "item": "minecraft:soul_sand",
+        "count": 4
+    }
+}

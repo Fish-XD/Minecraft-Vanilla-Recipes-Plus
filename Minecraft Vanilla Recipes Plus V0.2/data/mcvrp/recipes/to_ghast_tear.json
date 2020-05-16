@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:blasting",
+    "ingredient": [
+        {
+            "item": "minecraft:netherrack"
+        }
+    ],
+    "result": "minecraft:ghast_tear",
+    "cookingtime": 100,
+    "experience": 0.2
+}

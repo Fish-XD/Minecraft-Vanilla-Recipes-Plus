@@ -1,0 +1,30 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "121",
+        "2 2",
+        "121"
+    ],
+    "key": {
+        "1": [
+            {
+                "item": "minecraft:iron_ingot"
+            },
+            {
+                "item": "minecraft:yellow_dye"
+            }
+        ],
+        "2": [
+            {
+                "item": "minecraft:iron_ingot"
+            },
+            {
+                "item": "minecraft:yellow_dye"
+            }
+        ]
+    },
+    "result": {
+        "item": "minecraft:gold_ingot",
+        "count": 1
+    }
+}

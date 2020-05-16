@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:jungle_sapling"
+        }
+    },
+    "result": {
+        "item": "minecraft:acacia_sapling",
+        "count": 1
+    }
+}   
